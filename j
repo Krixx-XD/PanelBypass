@@ -1,0 +1,1 @@
+init=function(...) local h = nil end
